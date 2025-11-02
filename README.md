@@ -22,7 +22,7 @@
 ### 1️⃣ Clone o repositório
 
 ``` bash
-git clone https://github.com/DGdoougz/webdev.git
+git clone : https://github.com/DGdoougz/webdev.git
 ```
 
 ### 2️⃣ Abra o arquivo `index.html`
